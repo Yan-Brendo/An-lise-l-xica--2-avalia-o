@@ -38,12 +38,12 @@ A expressão regular usada para a validação é:
 
 ## Exemplos de Entradas Válidas
 
-1 (índice numérico positivo)
--3 (índice numérico negativo)
-"Nome da Coluna"
-'Coluna1'
-0:5 (intervalo numérico)
-'Coluna A':'Coluna B'
+* 1 (índice numérico positivo)
+* -3 (índice numérico negativo)
+* "Nome da Coluna"
+* 'Coluna1'
+* 0:5 (intervalo numérico)
+* 'Coluna A':'Coluna B'
 
 ## Observações
 
